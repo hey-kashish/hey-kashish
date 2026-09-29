@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there!!👋
+It's me Kashish a
 
-<!--
-**hey-kashish/hey-kashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** | SQL · Python · Databricks · Power BI · Excel
 
-Here are some ideas to get you started:
+I analyze data to find patterns, answer business questions, and support decisions with clear evidence. My work covers data cleaning, exploratory analysis, reporting, and dashboard development.
+---
+## About
+- Data analyst with a focus on turning raw data into actionable insights
+- Experienced in cleaning and transforming datasets, writing SQL queries, and building interactive dashboards
+- Comfortable presenting findings to both technical and non-technical stakeholders
+- Currently deepening my knowledge of statistics, advanced SQL, and predictive modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Technical Skills
+
+| Area | Tools |
+|------|-------|
+| **Programming** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy, Excel (Pivot Tables, Power Query) |
+| **Big Data & Platforms** | Databricks |
+| **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Databases** | MySQL, PostgreSQL |--
