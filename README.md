@@ -19,7 +19,7 @@ I analyze data to find patterns, answer business questions and support decisions
 | **Programming** | Python, SQL |
 | **Data Analysis** | Pandas, NumPy, Excel (Pivot Tables, Power Query) |
 | **Big Data & Platforms** | Databricks |
-| **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
 | **Databases** | MySQL, PostgreSQL |
 
 ## Reach Me
